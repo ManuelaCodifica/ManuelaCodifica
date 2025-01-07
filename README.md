@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 ## Contato
 
-- [Email](to:manuela@codifica.dev)
+- [Email](mailto:manuela@codifica.dev)
 - [LinkedIn](https://br.linkedin.com/in/manuela-alecio/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou quiser colaborar em algum projeto. Vamos codificar juntos! 🚀
