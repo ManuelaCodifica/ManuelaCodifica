@@ -1,4 +1,4 @@
-# Olá, eu sou a Manuela Codifica! 👋
+# Olá, eu sou a Manuela Alecio! 👋
 
 Seja bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnologia e inovação. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade.
 
